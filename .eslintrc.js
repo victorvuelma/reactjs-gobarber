@@ -34,6 +34,7 @@ module.exports = {
       'error',
       { devDependencies: ['./config-overrides.js'] },
     ],
+    'no-param-reassign': 'off',
     'no-console': ['warn', { allow: ['tron'] }],
   },
   settings: {
