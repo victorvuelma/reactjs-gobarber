@@ -28,7 +28,8 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
-    'no-console': ['warn', { allow: ['tron'] }],
     'react/jsx-props-no-spreading': 'off',
+    'import/prefer-default-export': 'off',
+    'no-console': ['warn', { allow: ['tron'] }],
   },
 };
