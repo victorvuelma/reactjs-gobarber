@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/victorvuelma/reactjs-gobarber.svg?token=6a6546d1d438535217a9d09f4c089814647c1dc3b2786ca4e7eb1c436eccc651&ts=1575655122245)](https://greenkeeper.io/)
+
 In the project directory, you can run:
 
 ### `yarn start`
