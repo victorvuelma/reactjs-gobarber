@@ -29,5 +29,6 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
     'no-console': ['warn', { allow: ['tron'] }],
+    'react/jsx-props-no-spreading': 'off',
   },
 };
